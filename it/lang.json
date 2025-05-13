@@ -3,5 +3,12 @@
   "rimuovi_dalla_cronologia": "Rimuovi dalla cronologia",
   "prodotti_visualizzati_di_recente": "Ultimi 10 prodotti visualizzati",
   "cancella_tutta_la_cronologia": "Cancella tutta la cronologia",
-  "codice_articolo": "Codice articolo"
+  "codice_articolo": "Codice articolo",
+  "ora": "ora",
+  "ore": "ore",
+  "e": "e",
+  "min": "min",
+  "ricevi_entro": "per ricevere il tuo ordine entro",
+  "Italia": "Italia",
+  "Europa": "Europa"
 }
