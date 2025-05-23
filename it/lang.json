@@ -12,5 +12,8 @@
   "Italia": "Italia",
   "Europa": "Europa",
   "consiglio_taglia_whatsapp": "Buongiorno%20vorrei%20un%20consiglio%20sulla%20taglia%20",
-  "misurati_e_scegli_la_taglia_giusta": "Misurati e scegli la taglia giusta"
+  "misurati_e_scegli_la_taglia_giusta": "Misurati e scegli la taglia giusta",
+  "taglia_consigliata_disponibile_torace": "Per la misura del tuo torace ti consigliamo la taglia: %1. La taglia %1 è disponibile!",
+  "taglia_articolo_non_indicata": "Per la misura %1 questo prodotto non è indicato",
+  "taglia_consigliata_non_disponibile": ""
 }
