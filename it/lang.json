@@ -15,7 +15,7 @@
   "misurati_e_scegli_la_taglia_giusta": "Misurati e scegli la taglia giusta",
   "taglia_consigliata_disponibile": "Per la misura %1 ti consigliamo la taglia: <b>%2</b>.<br><span class='text-success'>La taglia %2 è disponibile!</span>",
   "taglia_articolo_non_indicata": "Per la misura %1 questo prodotto non è indicato",
-  "taglia_consigliata_non_disponibile": "Per la misura %1 ti consigliamo la taglia: <b>%2</b>.<br><span class='text-danger'>La taglia %2 non è disponibile!</span>.<br><a class='text-success' href='https://www.strabello.eu/%3/?c_due=%4&misura=%5'>Non ti preoccupare! Trova altri articoli nella tua taglia qui.</a>",
+  "taglia_consigliata_non_disponibile": "Per la misura %1 ti consigliamo la taglia: <b>%2</b>.<br><span class='text-danger'>La taglia %2 non è disponibile!</span>.<br><a class='text-success' href='https://www.strabello.eu/%3/?c_tre=%4&misura=%5'>Non ti preoccupare! Trova altri articoli nella tua taglia qui.</a>",
   "del_tuo_torace": "del tuo <b>torace</b>",
   "catalogo_completo": "catalogo-completo"
 }
